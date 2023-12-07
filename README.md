@@ -6,11 +6,12 @@ Before running the script, ensure you have the following installed:
 
 * Python 3.x
 * Libraries: PIL, pyheif, tqdm, questionary
+* Coverage
 
 Install them using pip:
 
 ```
-pip install pillow pyheif tqdm questionary
+pip install pillow pyheif tqdm questionary coverage
 ```
 
 ## Installation
